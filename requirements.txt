@@ -1,4 +1,14 @@
-flask
+flask~=3.0.2
+vanna~=0.3.2
 vanna[snowflake]
 db-dtypes
-python-dotenv
+python-dotenv~=1.0.1
+PyMySQL
+flask-cors
+chromadb~=0.4.24
+openai~=1.16.0
+requests~=2.31.0
+pydantic~=2.6.4
+groq~=0.5.0
+pandas~=2.2.1
+sentence_transformers
